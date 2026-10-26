@@ -1,0 +1,11 @@
+hello (up)
+GOODBYE (low)
+the amazing WORLD (cap)
+1E (hex)
+1010 (bin)
+hello world (up, 2)
+HELLO WORLD (low, 2)
+hello WORLD (cap, 2)
+this is a amazing apple.
+I was there ,and then BAMM !!
+' hello '
